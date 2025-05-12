@@ -1,0 +1,11 @@
+assim que chegar em casa copie a pasta do seu projeto dentro da pasta coloque_o_projeto_aqui.
+
+vc vai usar os comandos em senquência:
+
+git clone https://github.com/Phelipe-Oliveira04/curriculo_web.git - usado para clonar o repositório do github para sua máquina
+
+git add . - utilizado para adicionar os arquivos para upload
+
+git commit -m "init" - utilizado para dar nome a alteração que vc fez
+
+git push origin main - utilizado para empurrar as alterações no seu repositório github de volta
